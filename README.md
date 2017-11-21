@@ -1,6 +1,6 @@
 # [Arduino] Controlador de fluxo de pessoas em uma sala
 ------------------------------------------------------------------------------------------------------------------------------------------
-Projeto desenvolvido para a disciplica de Redes de Computadores A
+Projeto desenvolvido para a disciplina de Redes de Computadores A
 ------------------------------------------------------------------------------------------------------------------------------------------
 Utilizando a placa Arduino e dois sonares detectamos a movimentação de pessoas de
 uma sala, controlando quantas pessoas entraram e quantas saíram dela. Quando o número de
